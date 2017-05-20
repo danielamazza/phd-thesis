@@ -1,3 +1,4 @@
 baseURL = "https://danielamazza.github.io/phd-thesis/"
+theme = "hugo-theme-learn"
 languageCode = "en-us"
 title = "Resources Optimization for Distributed Mobile Platforms in Smart Cities"
