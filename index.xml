@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources Optimization for Distributed Mobile Platforms in Smart Cities</title>
+    <link>https://danielamazza.github.io/phd-thesis/</link>
+    <description>Recent content on Resources Optimization for Distributed Mobile Platforms in Smart Cities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2017 16:01:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://danielamazza.github.io/phd-thesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources Optimization for Distributed Mobile Platforms in Smart Cities</title>
+      <link>https://danielamazza.github.io/phd-thesis/post/thesis/</link>
+      <pubDate>Sat, 20 May 2017 16:01:36 +0200</pubDate>
+      
+      <guid>https://danielamazza.github.io/phd-thesis/post/thesis/</guid>
+      <description>This is my Ph.D. thesis, disserted in 2016. It collects the outcomes of a Ph.D. course in Electronics, Telecommunications, and Information Technologies Engineering at the University of Bologna (Italy). It is focused on the study and design of techniques able to optimize resources in distributed mobile platforms. It is related to a typical smart city environment, to enhance quality, performance and interactivity of urban services. The subject is the operation of computation offloading, intended as the delegation of certain computing tasks to an external platform, such as a cloud or a cluster of devices.</description>
+    </item>
+    
+  </channel>
+</rss>
